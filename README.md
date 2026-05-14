@@ -8,4 +8,4 @@ F - Destroy unit\
 Left Click - Most things\
 Right Click - Unit movement\
 Scroll Up/Down - Zoom in/out\
-Escape - Pause\
+Escape - Pause
