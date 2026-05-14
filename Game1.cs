@@ -1,14 +1,4 @@
-﻿//Author: Daniel Drapkin
-//File Name: Program.cs
-//Project Name: ICS Final Project
-//Creation Date: 2026, 01, 19
-//Modified Date: 2026, 01, 19
-//Description: A total annihilation ripoff
-//Arrays: Did not use many arrays but used lists for all units, buildings, projectiles
-//Loops: Used very very many loops. One example is for cycling through all of my units/buildings to do some logic to each unit/building in my lists
-//Methods: I used many methods to clean up my code. Some of the most used ones were the GridToWorld and WorldToGrid methods
-
-using Microsoft.Xna.Framework;
+﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
